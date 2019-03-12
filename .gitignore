@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/sources/arduino-meteo-station/__vm
+/sources/arduino-meteo-station/Debug
+/sources/.vs/arduino-meteo-station/v15
+/sources/_ReSharper.Caches/ReSharperPlatformVs15183_1fd1fc7a.arduino-meteo-station.00
+*.filters
+*.user
